@@ -1,0 +1,155 @@
+
+.simage{
+	width: 320px;
+	height: 320px;
+}
+.slistimage{
+	width: 200px;
+	height: 200px;
+}
+
+.buttonPadding{
+	font-size:9pt;
+	height:25;
+	padding-left: 5px;
+}
+
+.modalPosition{
+	width:35%; 
+	margin-top: 180px; 
+	margin-bottom: 180px;
+}
+
+.filePosition{
+	padding-top: 5px;
+}
+
+.alingCenter{
+	text-align: center;
+}
+
+.dangerWith{
+	width: 1000px;
+}
+
+.border-position{
+	width:1200px;
+	border:1pt solid;
+	margin-top: 5px;
+	border-color: #FF4500;
+	margin-bottom: 50px;
+}
+
+.border-loginposition{
+	width:1170px;
+	border:1pt solid;
+	margin-top: 5px;
+	border-color: #FF4500;
+	margin-bottom: 100px;
+}
+
+.iconPosition{
+	margin-bottom: 0px;
+}
+
+.mainPosition{
+	margin-top:70px;
+}
+
+.member-img{
+	width: 230px;
+	height: 230px;
+}
+.images-img{
+	width: 80px;
+	height: 80px;
+}
+
+.member-Readimg{
+	width: 260px;
+	height: 260px;
+}
+
+.serchPosition{
+	margin-bottom: 5px;
+}
+
+.filename-Position{
+	padding-top: 6px;
+}
+
+.remember{
+	padding-left:80px;
+}
+.alert{
+	width: 60%;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #f44336;
+}
+
+.button3:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.images-text{
+	padding-top: 35px;
+}
+
+.modal-button{
+	padding-right: 40px;
+}
+
+.imgpading{
+	padding-left: 76px;
+	padding-right: 9px;
+}
+.danger{
+	margin-left: 270px;
+}
+
+.with{
+	margin-left: 37px;
+}
+
