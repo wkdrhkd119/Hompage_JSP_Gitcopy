@@ -123,10 +123,10 @@ location.href=url;
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">결과</h4>
         </div>
-        <div class="modal-body" style="padding-right: 40px;">
+        <div class="modal-body modal-button">
           <p>삭제를 실패했습니다. 다시 시도해 주세요.</p>
         </div>
-        <div class="modal-footer" style="padding-right: 40px;">
+        <div class="modal-footer modal-button">
           <button type="button" class="btn btn-default" data-dismiss="modal" onclick="location.href='./list.jsp'">목록</button>
           <button type="button" class="btn btn-default" data-dismiss="modal" onclick="history.back()">다시시도</button>
           <button type="button" class="btn btn-default" data-dismiss="modal">닫기</button>

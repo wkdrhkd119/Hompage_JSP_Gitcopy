@@ -83,9 +83,9 @@ $(document).ready(function() {
 <body>
 <jsp:include page="/templet/top.jsp" />
 
-<div class="w3-container" id="services" style="margin-top:70px">
-<h2 style="margin-bottom: 0px;"><span class="glyphicon glyphicon-th-list"></span>_게시판</h2>
-<hr style="width:170px; border:2px solid; margin-top: 5px; border-color: #FF4500" class="w3-round">
+<div class="w3-container mainPosition" id="services">
+<h2 class="iconPosition"><span class="glyphicon glyphicon-th-list"></span>_게시판</h2>
+<hr class="w3-round border-position">
 </div> 
  
 

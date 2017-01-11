@@ -74,7 +74,7 @@ input[type=text]:focus {
   <a href="<%=root%>/bbs/list.jsp" onclick="w3_close()" class="w3-padding w3-hover-white">게시판</a> 
   <a href="<%=root%>/memo/list.jsp" onclick="w3_close()" class="w3-padding w3-hover-white">메모</a> 
   <a href="<%=root%>/address/list.jsp" onclick="w3_close()" class="w3-padding w3-hover-white">주소록</a> 
-  <a href="<%=root%>/team/list.jsp" onclick="w3_close()" class="w3-padding w3-hover-white">팀</a> 
+  <%-- <a href="<%=root%>/team/list.jsp" onclick="w3_close()" class="w3-padding w3-hover-white">팀</a>  --%>
   <a href="<%=root%>/images/list.jsp" onclick="w3_close()" class="w3-padding w3-hover-white">썸네일</a> 
   <%if(id==null){%>
   <a href="<%=root%>/member/agreement.jsp" onclick="w3_close()" class="w3-padding w3-hover-white">회원가입</a> 
